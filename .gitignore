@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks and local output
+.ipynb_checkpoints/
+outputs/
+runs/
+artifacts/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
